@@ -1,6 +1,6 @@
 # 🌦 Real-Time Weather Alerts with Airtable + GitHub Automation
 
-This project pulls **real-time weather data** for major cities (including **Mumbai**) using the **OpenWeatherMap API**, loads the data into **Airtable**, and automatically sends you **daily email alerts** using Airtable's native automation.
+This project pulls **real-time weather data** for major cities using the **OpenWeatherMap API**, loads the data into **Airtable**, and automatically sends you **daily email alerts** using Airtable's native automation.
 
 ---
 
