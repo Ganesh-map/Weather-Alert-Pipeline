@@ -47,7 +47,8 @@ This project pulls **real-time weather data** for major cities (including **Mumb
 🌬️ Wind: 10 km/h
 🌤️ Condition: Clear Sky
 
+--
 
-##Author
+## Author
 Made with ✨ and a lots of trial & error by Ganesh Khankal  
 🔗 [LinkedIn](www.linkedin.com/in/ganesh-khankal) • 🐙 [GitHub](https://github.com/Ganesh-map)
