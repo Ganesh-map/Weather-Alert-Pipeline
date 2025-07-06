@@ -41,11 +41,7 @@ This project pulls **real-time weather data** for major cities using the **OpenW
 
 ## 📨 Sample Email Output
 
-📍 Mumbai - ✅ Normal
-🌡️ Temp: 28°C
-💧 Humidity: 72%
-🌬️ Wind: 10 km/h
-🌤️ Condition: Clear Sky
+[email.pdf](https://github.com/user-attachments/files/21085835/email.pdf)
 
 --
 
